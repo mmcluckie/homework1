@@ -2,4 +2,4 @@
 # Mason McLuckie
 #
 # Hello World Program
-print("Welcome to ECS32A")
+print("Welcome to ECS32A!")
